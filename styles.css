@@ -73,9 +73,9 @@
     border-radius: 3px;
 }
 
-.nav-search:hover {
-    border: 3px solid #febd69;
-}
+/* .nav-search:focus {
+    outline: 3px solid #febd69;
+} */
 
 .search-select {
     background-color: #f3f3f3;
